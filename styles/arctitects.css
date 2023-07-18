@@ -5,6 +5,15 @@
     font-family: 'Open Sans', sans-serif;
     font-family: 'Work Sans', sans-serif;
 }
+.text-light-gray{
+    color: #727272;
+    font-weight: 400;
+}
+.section-title{
+    font-size: 3rem; 
+    font-weight: 700;
+    color: #131313;
+ }
 .btn-primary{
     border-radius: 8px;
     color: #FFF;
@@ -24,11 +33,7 @@ nav{
     display: flex;
     justify-content: space-between;
 }
-.nav-title{
-   font-size: 3rem; 
-   font-weight: 700;
-   color: #131313;
-}
+
 
 nav > ul{
     display: flex;
@@ -55,10 +60,10 @@ nav li a{
     font-weight: 700;
     color: #131313;
 }
-.banner-description{
+/* .banner-description{
     color: #727272;
     font-weight: 400;
-}
+} */
 .banner img{
     margin-top: 25px;
     width: 100%;
